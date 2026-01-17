@@ -1,6 +1,7 @@
 # Challenge: Verify
 **Category:** Forensics
 **Difficulty:** Easy  
+
 **CTF:** picoCTF 2024
 
 ## 📂 Files Provided
